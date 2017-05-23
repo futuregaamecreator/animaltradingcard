@@ -1,0 +1,42 @@
+/* add your CSS here */
+img{
+  display: block;
+  margin: auto;
+  width: 300px;
+  padding: 10px;
+}
+
+span{
+  font-weight: bold;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+.fact{
+  font-style: italic;
+}
+
+.animal-card{
+  border-style: solid;
+  border-width: thin;
+  padding: 10px 80px 100px 10px;
+  margin: auto;
+  width: 600px;
+
+}
+
+.animal-info{
+  border-style: solid;
+  border-width: thin;
+  padding: 10px 80px 100px 10px;
+  margin: auto;
+  width: 350px;
+}
+
+p,
+ul{
+    padding-left: 100px
+}
